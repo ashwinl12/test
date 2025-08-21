@@ -11,6 +11,6 @@ import "fmt"
 // 	return "Welcome to demo !!"
 // }
 
-func Bye(name string) string {
-	return fmt.Sprintf("Bye %s !!", name)
-}
+// func Bye(name string) string {
+// 	return fmt.Sprintf("Bye %s !!", name)
+// }
