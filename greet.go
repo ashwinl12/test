@@ -6,7 +6,7 @@ package test
 // func Greet(name string) string {
 // 	return fmt.Sprintf("Hi there, %s !!\n%s", name, Intro())
 // }
-
+// intro
 func Intro() string {
 	return "Welcome to demo !!"
 }
