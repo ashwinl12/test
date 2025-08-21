@@ -4,7 +4,7 @@ import "fmt"
 
 
 func Greet(name string) string {
-	return fmt.Sprintf("Hi there, %s !!\n%s", name, intro())
+	return fmt.Sprintf("Hi there, %s !!\n%s", name, Intro())
 }
 
 func Intro() string {
